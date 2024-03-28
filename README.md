@@ -1,2 +1,2 @@
 # Predicting_Sludge_Volume_Index
-Predicting Sludge Volume Index at a Wastewater Treatment Plant
+Sludge volume index plays a crucial role in assisting wastewater treatment plant operators in assessing the efficacy of the activated sludge process. The purpose of this project was to create a model to predicting sludge volume index at a wastewater treatment plant using a dataset of daily wastewater readings. Eighteen metrics were collected for over five years at daily increments for a total of 2,300 rows. Data was cleaned, explored, and preprocessed and multiple predictive models were developed.
